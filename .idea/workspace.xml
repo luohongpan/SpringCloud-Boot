@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36aed649-36bc-45fa-a7eb-f1b3e2763f26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/coment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/eureka-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/src/main/java/cn/how2j/trend/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/src/main/java/cn/how2j/trend/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/src/test/java/cn/how2j/trend/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/target/classes/cn/how2j/trend/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/target/classes/cn/how2j/trend/EurekaServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/eureka-server/target/test-classes/cn/how2j/trend/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/index-codes-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/IndexCodesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/config/IpConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/config/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/pojo/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/service/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/java/cn/how2j/trend/web/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/src/test/java/cn/how2j/trend/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/IndexCodesApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/config/IpConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/config/RedisCacheConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/pojo/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/service/IndexService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/classes/cn/how2j/trend/web/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-codes-service/target/test-classes/cn/how2j/trend/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/index-data-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/IndexDataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/config/IpConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/config/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/pojo/IndexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/service/IndexDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/java/cn/how2j/trend/web/IndexDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/src/test/java/cn/how2j/trend/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/IndexDataApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/config/IpConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/config/RedisCacheConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/pojo/IndexData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/service/IndexDataService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/classes/cn/how2j/trend/web/IndexDataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-data-service/target/test-classes/cn/how2j/trend/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/IndexGatherStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/config/QuartzConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/controller/IndexDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/job/IndexDataSyncJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/pojo/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/pojo/IndexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/service/IndexDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/service/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/trend/RedisCacheconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/java/cn/how2j/trend/trend/util/SpringContextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/src/test/java/cn/how2j/trend/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/IndexGatherStoreApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/config/QuartzConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/controller/IndexDataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/job/IndexDataSyncJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/pojo/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/pojo/IndexData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/service/IndexDataService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/service/IndexService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/trend/RedisCacheconfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/classes/cn/how2j/trend/trend/util/SpringContextUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/index-gather-store-service/target/test-classes/cn/how2j/trend/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/spring-cloud-starter-netflix-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/java/cn/how2j/trend/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/java/cn/how2j/trend/ThirdPartIndexDataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000827.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000905.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000991.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/000992.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/399006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/399812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/399971.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/399975.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/main/resources/static/indexes/codes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/src/test/java/cn/how2j/trend/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/cn/how2j/trend/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/cn/how2j/trend/ThirdPartIndexDataApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000827.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000905.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000991.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/000992.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/399006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/399812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/399971.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/399975.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/classes/static/indexes/codes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/target/test-classes/cn/how2j/trend/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/third-part-index-data-project/third-part-index-data-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trendParentProject/trendParentProject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kRVbZfhmhI61e6Sy7B8c8xoNko" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36aed649-36bc-45fa-a7eb-f1b3e2763f26" name="Default Changelist" comment="" />
+      <created>1605663462264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605663462264</updated>
+      <workItem from="1605663463688" duration="150000" />
+      <workItem from="1605666032202" duration="2162000" />
+      <workItem from="1605671883251" duration="850000" />
+      <workItem from="1605759072953" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="87" key="FileChooserDialogImpl" timestamp="1605759323943">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="87" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1605759323943" />
+    <state x="431" y="48" key="RollbackChangesDialog" timestamp="1605759423472">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="431" y="48" key="RollbackChangesDialog/0.0.1280.689@0.0.1280.689" timestamp="1605759423472" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1605759445846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1605759445846" />
+    <state x="443" y="251" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605759398141">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="443" y="251" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.689@0.0.1280.689" timestamp="1605759398141" />
+  </component>
+</project>
